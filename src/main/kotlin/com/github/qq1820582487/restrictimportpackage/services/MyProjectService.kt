@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.qq1820582487.restrictimportpackage.services
 
+import com.github.qq1820582487.restrictimportpackage.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

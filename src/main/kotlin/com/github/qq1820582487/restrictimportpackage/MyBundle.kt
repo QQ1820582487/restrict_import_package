@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.qq1820582487.restrictimportpackage
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
